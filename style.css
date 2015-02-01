@@ -1,0 +1,54 @@
+body {
+	background-color: #A8B2CD;
+	font-family: 'Rokkitt', serif;
+	font-size: 20px;
+	color: black;
+	}
+
+body a {
+	color: #FFF1AA;
+	text-decoration: none;
+	}
+
+.buttonholder {
+	background-color: #F3F5F9;
+	padding: 5px;
+	padding-top: 10px;
+	display: inline-block;
+	border-radius: 3px;
+	border: 2px solid black;
+	}
+
+body.portfolio h2, body.portfolio h2 a {
+	color: #F3F5F9;
+	}
+
+.sample {
+	padding: 25px;
+	margin-bottom: 25px;
+	border-top:2px dashed black;
+	border-right:2px dashed black;
+	color: black;
+	}
+
+.graytext {
+	color: #F3F5F9;
+	font-size: 75%;
+	}
+
+.sample a:link {
+	text-decoration: none;
+	color: black;
+	}
+
+.sample:hover {
+	border-top:2px dashed #FFF1AA;
+	border-right:2px dashed #FFF1AA;
+	}
+
+.socialbutton {
+	width: 16px;
+	height: 16px;
+	border: none;
+	}
+
