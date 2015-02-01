@@ -1,7 +1,6 @@
 body {
 	background-color: #A8B2CD;
-	font-family: 'Rokkitt', serif;
-	font-size: 20px;
+	font-family: 'Arvo', serif;
 	color: black;
 	}
 
@@ -10,7 +9,20 @@ body a {
 	text-decoration: none;
 	}
 
+.homemenu {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto; 
+	text-indent: -9999px;
+	}
+
+.homemenu:hover {
+	background-position: -500px 0px;
+	}
+
+
 .buttonholder {
+	margin-top: 10px;
 	background-color: #F3F5F9;
 	padding: 5px;
 	padding-top: 10px;

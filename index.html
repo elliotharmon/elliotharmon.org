@@ -1,3 +1,8 @@
+---
+title: Elliot Harmon
+permalink: /
+---
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,10 +10,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="/grid12.css">
 <link href='/style.css' rel='stylesheet' type='text/css' />
-<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
-<title>Hi</title>
+<title>{{ page.title }}</title>
 </head>
 <body>
-<p>My homepage is cool.</p>
+	<div class="hidden-sm hidden-md hidden-lg">
+		<img src="/img/menu1-700.jpg" style="width: 100%; display: block; ">
+		<a href="/writing/"><img src="/img/menu2-writing-700.jpg" style="width: 100%; display: block; "></a>
+		<a href="/projects/"><img src="/img/menu3-projects-700.jpg" style="width: 100%; display: block; "></a>
+		<a href="/poetry/"><img src="/img/menu4-poetry-700.jpg" style="width: 100%; display: block; "></a>
+		<a href="http://blog.elliotharmon.org/"><img src="/img/menu5-blog-700.jpg" style="width: 100%; display: block; "></a>
+	</div>
+	
+	<div class="hidden-xs">
+		<div class="homemenu" style="background-image: url('/img/menu1-500.jpg'); height: 136px; "></div>
+		<a href="/writing/"><div class="homemenu" style="background-image: url('/img/menu2-writing.jpg'); height: 124px; ">writing</div></a>
+		<a href="/projects/"><div class="homemenu" style="background-image: url('/img/menu3-projects.jpg'); height: 106px; ">projects</div></a>
+		<a href="/poetry/"><div class="homemenu" style="background-image: url('/img/menu4-poetry.jpg'); height: 130px; ">poetry</div></a>
+		<a href="http://blog.elliotharmon.org/"><div class="homemenu" style="background-image: url('/img/menu5-blog.jpg'); height: 146px; ">blog</div></a>
+	</div>
+
+	<div style="text-align: center; ">
+		{% include allbuttons.html %}
+	</div>
+
 </body>
 </html>

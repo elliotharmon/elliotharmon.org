@@ -1,0 +1,21 @@
+---
+layout: portfolio
+title: Poetry
+permalink: /poetry/
+---
+
+		<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6" style="margin-top: 20px;">
+			<div class="container-fluid">
+				<div class="row">
+					{% for sample in site.data.poetry %}
+							<a href="{{ sample.url }}">
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sample">
+									<h3 class="hidden-md hidden-lg">{{ sample.title | markdownify | remove: "<p>" | remove: "</p>" }}<br />
+									<span class="graytext hidden-md hidden-lg">{{ sample.source | markdownify | remove: "<p>" | remove: "</p>" | replace: ' ', '&nbsp;' }}</span></h3>
+									<p>{{ sample.excerpt | markdownify }}</p>
+									<h3 style="text-align: right; " class="hidden-xs hidden-sm">{{ sample.title | markdownify | remove: "<p>" | remove: "</p>" }} <span class="graytext">{{ sample.source | markdownify | remove: "<p>" | remove: "</p>" | replace: ' ', '&nbsp;' }}</h3>
+								</div></a>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
