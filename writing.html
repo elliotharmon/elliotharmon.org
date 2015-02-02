@@ -9,7 +9,7 @@ permalink: /writing/
 				<div class="row">
 						{% for category in site.data.writing-categories %}
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-								<h2><a name="{{ category.category }}">{{ category.category }}</a></h2>
+								<div id="{{ category.category }}"><h2>{{ category.category }}</h2></div>
 							</div>
 							{% for sample in site.data.writing %}
 								{% if sample.category == category.category %}
