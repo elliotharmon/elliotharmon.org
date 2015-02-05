@@ -27,7 +27,7 @@ from Hong Kong. Cast members
 
 have been told to contravene. Sometimes  
 they answer, "We were closed that day."
-
+<br /><br />
 
 
 #### Two ####
@@ -51,6 +51,7 @@ the full bottle, watching *The Price Is Right*
 
 through the neighbors' window.  
 I haven't mentioned the graffiti yet. 
+<br /><br />
 
 
 #### Three ####
@@ -74,6 +75,7 @@ I read on Wikipedia that Naxos
 
 was compiling an album, but I can't find that  
 anymore. It might have been a prank. 
+<br /><br />
 
 
 #### Four ####
@@ -97,6 +99,7 @@ He'd fill the board and quickly smear it
 
 with his arm and start again, until the board  
 was only a large, white, dusty rectangle. 
+<br /><br />
 
 
 #### Five ####
@@ -114,6 +117,7 @@ and be a wrestler, but Chris, I did give her
 
 a suplex and locked her leg until she tapped,  
 almost in tears from laughter. 
+<br /><br />
 
 
 #### Six ####
@@ -131,6 +135,7 @@ and when he finally tapped, they played
 
 your music and the crowd around  
 the empty ring chanted bleeps. 
+<br /><br /><br /><br />
 
 
 *The title is a text message Chris Benoit sent a neighbor shortly before his death. The poem is an elergy where an elegy is not possible.*
