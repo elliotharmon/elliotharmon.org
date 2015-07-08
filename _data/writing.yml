@@ -7,6 +7,13 @@
     Over the past 18 months or so, the antennas have been appearing around Jalalabad, a former Taliban stronghold in Afghanistan. Of the ways in which they differ from traditional wireless access points, the most profound is that they lack an electronics company logo.
   url: http://forums.techsoup.org/cs/community/b/tsblog/archive/2010/04/10/fab-lab-and-doityourself-infrastructure-building.aspx
 
+- title: Tesla didn't fix patents
+  source: Medium
+  category: editorial
+  excerpt: |
+    It's not enough to promise not to join the trolls. It's time to take back the bridge.
+  url: https://medium.com/@elliotharmon/tesla-didn-t-fix-patents-c75ec949f940
+
 - title: Demedicalizing medicine
   source: Ashoka
   category: editorial
@@ -21,14 +28,6 @@
     At its heart, Creative Commons is a simple idea. It's the idea that when people share their creativity and knowledge with each other, amazing things can happen.
   url: https://stateof.creativecommons.org/
 
-- title: CC filmmakers and festivals change the rules
-  source: Creative Commons
-  category: editorial
-  excerpt: |
-    No, CC-licensed films aren’t sweeping the Oscars, but maybe they've become a part of something even more exciting.
-  url: https://creativecommons.org/weblog/entry/36917
-  
-  
 
 # interview
 
@@ -37,21 +36,21 @@
   category: interview
   excerpt: |
     Jonathan's just-do-it approach to creativity is contagious: "A lot of my YouTube followers are teenage songwriters," he says with obvious pride. But his *music* is contagious too.
-  url: http://teamopen.cc/jonathan/
+  url: http://teamopen.elliotharmon.org/jonathan/
 
 - title: Maria Droujkova interview
   source: Creative Commons
   category: interview
   excerpt: |
     According to Dr. Maria Droujkova, anyone can learn calculus, even five-year-old children. How do people respond when she tells them that? She laughs at the question: "How do you *think* people respond?"
-  url: http://teamopen.cc/maria/
+  url: http://teamopen.elliotharmon.org/maria/
 
 - title: Thomas Bonte interview
   source: Creative Commons
   category: interview
   excerpt: |
     Why public domain? In Thomas' words, "You either go all the way or you don’t do it. Kimiko wanted her work to be used by a lot of artists. And yeah, mission accomplished."
-  url: http://teamopen.cc/thomas/
+  url: http://teamopen.elliotharmon.org/thomas/
 
 - title: Mario Morino's Leap of Reason
   source: TechSoup
@@ -82,7 +81,7 @@
   category: fundraising
   excerpt: |
     Something funny happens when people see the effects of open in their lives. *They begin to demand it.* We start expecting open policies and practices from our governments, our universities, and our employers. Today, people notice when those in power choose closed.
-  url: http://teamopen.cc/thefuture/
+  url: http://teamopen.elliotharmon.org/thefuture/
 
 - title: What we've built together
   source: Creative Commons
